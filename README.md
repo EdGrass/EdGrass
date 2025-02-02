@@ -1,4 +1,4 @@
-# This is EdGrass
+  $\mathcal{This is EdGrass$
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdGrass&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
