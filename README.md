@@ -6,10 +6,10 @@
 
 ## 👋 About Me
 
-- 🎓 Currently exploring the world of programming
-- 🧩 Passionate about development and algorithm design
-- 🎮 Avid gamer: Mahjong Soul, Rainbow Six Siege, Nintendo Switch enthusiast
-- 🌱 Learning: Machine Learning basics, C++ and Python
+- Currently exploring the world of programming
+- Passionate about development and algorithm design
+- Avid gamer: Mahjong Soul, Rainbow Six Siege, Nintendo Switch enthusiast
+- Learning: Machine Learning basics, C++ and Python
 
 ## 📫 Get in Touch
 
